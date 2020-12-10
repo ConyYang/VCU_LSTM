@@ -1,0 +1,17 @@
+
+
+0.6372
+   Loss_MAE  Threshold  Anomaly
+0  0.204377     0.6372    False
+1  0.285275     0.6372    False
+2  0.131701     0.6372    False
+3  0.238852     0.6372    False
+4  0.156668     0.6372    False
+      Loss_MAE  Threshold  Anomaly
+1875  0.505672     0.6372    False
+1876  0.637336     0.6372     True
+1877  0.638830     0.6372     True
+1878  0.542932     0.6372    False
+1879  0.639043     0.6372     True
+True     370
+True     0.5
